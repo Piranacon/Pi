@@ -1,0 +1,2 @@
+ssid = ""
+ssid_password = ""
