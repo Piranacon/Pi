@@ -1,3 +1,5 @@
+# This program measures the distance from an object using an ultrasonic sensor.
+
 from machine import Pin
 import utime
 
@@ -6,6 +8,12 @@ echo = Pin(2, Pin.IN)
 
 
 def ultra():
+    """
+    Measures the distance from an object using an ultrasonic sensor.
+    
+    Returns:
+        distance (float): The distance from the object in centimeters.
+    """
     trigger.low()
     utime.sleep_us(2)
     trigger.high()

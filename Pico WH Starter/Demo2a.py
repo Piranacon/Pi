@@ -1,3 +1,6 @@
+# This program combines the two snippets above to connect to a WiFi network and
+# then retrieve the number of astronauts currently in space from the internet
+# and print their names and the craft they are on.
 import network
 import secrets
 import urequests
