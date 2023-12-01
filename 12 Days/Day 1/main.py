@@ -1,6 +1,8 @@
 from machine import Pin
 
-led = Pin(25, Pin.OUT)
+#Depending on your Pico Board you may need to change the pin number
+# led = Pin(25, Pin.OUT)
+led = Pin("LED", Pin.OUT)
 
 #  Theres a couple of ways of handling the on/off state of the LED 
 
