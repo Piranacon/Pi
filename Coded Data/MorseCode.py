@@ -1,10 +1,15 @@
 from machine import Pin
 import time
 
-led = Pin(25, Pin.OUT)
+led = Pin("LED", Pin.OUT)
 short_press = 0.1
 long_press = 0.3
+
 # Define the Morse code dictionary
+# So in this example this is not a machine friendly way to do this.
+# It would be better to do this would be something like:
+# morse_code = { 'A': [short_press, long_press], 'B': [long_press, short_press, short_press, short_press] }
+
 morse_code = {
     'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.', 'G': '--.', 'H': '....',
     'I': '..', 'J': '.---', 'K': '-.-', 'L': '.-..', 'M': '--', 'N': '-.', 'O': '---', 'P': '.--.',
@@ -37,4 +42,4 @@ for char in encoded_alphabet:
         led.off()
         time.sleep(short_press)
     else:
-        time.sleep(0.3)
+        time.sleep(long_press)
