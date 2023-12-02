@@ -19,4 +19,4 @@ Contains all the projects from the WH Starter kit
 | Demo1.py | Lights up LED Onboard | <ul><li>Pico</li> <li>Breadboard</li><ul> |
 | Demo2.py | Connects to the wifi | <ul><li>Pico WH</li> <li>Breadboard</li><ul> |
 | Demo2a.py | Connects to the wifi. Then read Json from a website and outputs the values | <ul><li>Pico WH</li> <li>Breadboard</li><ul> |
-| Demo3.py | Measures distance | <ul><li>Pico WH</li> <li>Breadboard</li><li>4 Cables</li><ul> |
+| Demo3.py | Measures distance | <ul><li>Pico WH</li> <li>Breadboard</li><li>4 Cablesout</li><ul> |
