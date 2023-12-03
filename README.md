@@ -15,6 +15,12 @@ Contains all the Projects from the Pihut's Let it Glow advent Calendar
 | 2| Activity 3.py | Toggles the light on and off every second. | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>2 X Male to male jumper wires</li></ul> |
 | 2| Activity 4.py | Blinks an LED on and off. | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>2 X Male to male jumper wires</li></ul> |
 | 2| Activity 5.py | Blink an LED on and off 10 times. | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>2 X Male to male jumper wires</li></ul> |
+| 3| Activity 1.py | Prints a message when button is pressed  | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>7 X Male to male jumper wires</li></ul> |
+| 3| Activity 2.py | Prints a message when either button is pressed | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>7 X Male to male jumper wires</li></ul> |
+| 3| Activity 3.py | Turns light on/off. | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>7 X Male to male jumper wires</li></ul> |
+| 3| Activity 4.py | Turns Light on/off. | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>7 X Male to male jumper wires</li></ul> |
+| 3| Activity 5.py | Update variable when button is pressed  | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>7 X Male to male jumper wires</li></ul> |
+| 3| Activity 6.py | Update variable when button is pressed and turn light on/off  | <ul><li>Pico</li> <li>Breadboard</li>1x 15mm diffused ‘blocky’ LED</li><li>Resistor</li><li>7 X Male to male jumper wires</li></ul> |
 
 ## Pico WH Starter
 Contains all the projects from the WH Starter kit
@@ -28,3 +34,6 @@ Contains all the projects from the WH Starter kit
 
 ## Pico Board layout
 ![Board layout](/misc/simplified_pico_pinout.jpg.webp)
+
+## Breadboard Layout
+[See here for more details](https://computers.tutsplus.com/how-to-use-a-breadboard-and-build-a-led-circuit--mac-54746t)
