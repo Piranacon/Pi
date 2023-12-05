@@ -28,6 +28,13 @@ Contains all the Projects from the Pihut's Let it Glow advent Calendar
 | 4| Activity 5.py | Introduction to Else  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>11 X Male to male jumper wires</li></ul> |
 | 4| Activity 6.py | Light up graph if button is pressed  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>11 X Male to male jumper wires</li></ul> |
 | 4| Extra 1.py | Start and stop Random on button press  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>11 X Male to male jumper wires</li></ul> |
+| 5| Activity 1.py | Read the state of 5 switches and print the state of each switch to the console  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
+| 5| Activity 2.py | This program reads the state of 5 switches and prints their state to the console.  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
+| 5| Activity 3.py | This program reads the state of 5 switches and lights up 5 LEDs to match.  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
+| 5| Activity 4.py | This program will run one of two programs based on the position of the switches. The Programs have different light patterns.  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
+| 5| Activity 5.py | This program will run one of two programs based on the position of the switches.  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
+| 5| Activity 7.py | This program will run one of two programs based on the position of the switches. usin or | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
+
 ## Pico WH Starter
 Contains all the projects from the WH Starter kit
 

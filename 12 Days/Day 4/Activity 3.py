@@ -18,12 +18,12 @@ while True:
     for led in segments:
         
         led.value(1)
-        time.sleep(0.08)
+        time.sleep(0.1)
         led.value(0)
         
     # For loop in reverse, running backwards through the list
     for led in reversed (segments):
         
         led.value(1)
-        time.sleep(0.08)
+        time.sleep(0.1)
         led.value(0)
