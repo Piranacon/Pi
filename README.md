@@ -34,12 +34,14 @@ Contains all the Projects from the Pihut's Let it Glow advent Calendar
 | 5| Activity 4.py | This program will run one of two programs based on the position of the switches. The Programs have different light patterns.  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
 | 5| Activity 5.py | This program will run one of two programs based on the position of the switches.  | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
 | 5| Activity 7.py | This program will run one of two programs based on the position of the switches. using or and | <ul><li>Pico</li> <li>Breadboard</li>5-segment bar graph display</li><li>Network Resistor</li><li>16 X Male to male jumper wires</li><li>DIP switch</li></ul> |
-| 6| Activity 1.py | Lights up an LED with the color blue. | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>GRB LED</li></ul> |
-| 6| Activity 2.py | Light up the LED with a colour variable | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>GRB LED</li></ul> |
-| 6| Activity 3.py | Cycles through a list of colours and display them on the LED. | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>GRB LED</li></ul> |
-| 6| Activity 4.py | Light up a single LED and cycle through the red spectrum. | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>GRB LED</li></ul> |
-| 6| Activity 4a.py | Make the LED fade from green to red and back again. | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>GRB LED</li></ul> |
+| 6| Activity 1.py | Lights up an LED with the color blue. | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>1 x GRB LED</li></ul> |
+| 6| Activity 2.py | Light up the LED with a colour variable | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>1 x GRB LED</li></ul> |
+| 6| Activity 3.py | Cycles through a list of colours and display them on the LED. | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>1 x GRB LED</li></ul> |
+| 6| Activity 4.py | Light up a single LED and cycle through the red spectrum. | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>1 X GRB LED</li></ul> |
+| 6| Activity 4a.py | Make the LED fade from green to red and back again. | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>1 x GRB LED</li></ul> |
 | 6| Activity 5.py | Fade in and out two LEDs. | <ul><li>Pico</li><li>Breadboard</li><li>8 X Male to male jumper wires</li><li>2 x GRB LED</li></ul> |
+| 6| Extra 1.py | Randomly change the color of the LED | <ul><li>Pico</li><li>Breadboard</li><li>5 X Male to male jumper wires</li><li>1 x GRB LED</li></ul> |
+| 6| Extra 2.py | Cycle through a list of colours and display them on the LEDs. | <ul><li>Pico</li><li>Breadboard</li><li>8 X Male to male jumper wires</li><li>2 x GRB LED</li></ul> |
 
 ## Pico WH Starter
 Contains all the projects from the WH Starter kit

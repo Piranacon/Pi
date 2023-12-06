@@ -1,4 +1,4 @@
-# Imports
+# Description: This program will randomly change the color of the LED
 import time
 from machine import Pin
 from neopixel import NeoPixel
