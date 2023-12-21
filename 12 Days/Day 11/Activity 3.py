@@ -1,3 +1,4 @@
+# Description: This program will flash an LED at different speeds depending on which button is pressed.
 from machine import Pin
 import time
 

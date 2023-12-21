@@ -1,4 +1,4 @@
-# Imports
+# Description: Fade in/out each LED on the strand
 from machine import Pin
 from neopixel import NeoPixel
 import time

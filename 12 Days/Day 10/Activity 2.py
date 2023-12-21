@@ -1,4 +1,4 @@
-# Imports
+# Description: This program will light up the LEDs in a strand one at a time
 from machine import Pin
 from neopixel import NeoPixel
 import time

@@ -1,3 +1,4 @@
+# Description: This program will light up the LEDs in a pattern based on the button pressed.
 from machine import Pin
 import time
 

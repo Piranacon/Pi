@@ -1,4 +1,4 @@
-# Imports
+# Description: This program will light up the NeoPixel strand with red for 10 seconds
 from machine import Pin
 from neopixel import NeoPixel
 import time

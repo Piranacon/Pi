@@ -1,3 +1,4 @@
+# Description: This program will ask the user to enter a passcode to access a secret present list.
 from machine import Pin
 import time
 

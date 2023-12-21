@@ -1,3 +1,4 @@
+# Description: This program will print the button number when pressed.
 from machine import Pin
 import time
 

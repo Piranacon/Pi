@@ -1,4 +1,4 @@
-# Imports
+# Description: This program will read the value of a potentiometer and light up a number of LEDs on a NeoPixel ring based on the reading.
 from machine import Pin, ADC
 from neopixel import NeoPixel
 import time

@@ -1,3 +1,4 @@
+# Description: This program will print the button number when pressed. It will not print again until all buttons are released.
 from machine import Pin
 import time
 

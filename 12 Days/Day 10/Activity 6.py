@@ -1,4 +1,4 @@
-# Imports
+# Description: Randomly light LEDs on a NeoPixel ring
 from machine import Pin, ADC
 from neopixel import NeoPixel
 import time
